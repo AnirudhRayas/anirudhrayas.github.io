@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='https://ecee.engineering.asu.edu/'>PhD@ASU, ECEE</a>.
 
