@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"[J] NeurIPS":
+  url: https://neurips.cc/Conferences/2022
 
-"PhysRev":
-  url: https://journals.aps.org/
+"[J] Frontiers":
+  url: https://www.frontiersin.org/journals/computer-science
 
-"Vision":
-  color: "#009f36"
+"[C] ICASSP":
+  url: https://2023.ieeeicassp.org/
+
+"[P] Preprint":
+  url:
