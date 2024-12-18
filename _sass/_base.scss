@@ -785,6 +785,28 @@ footer.sticky-bottom {
           }
         }
       }
+    .author {
+      a {
+        border-bottom: 1px dashed var(--global-theme-color);
+
+        &:hover {
+          border-bottom-style: solid;
+          text-decoration: none;
+        }
+      }
+
+    > em {
+      border-bottom: 1px solid;
+      font-style: normal;
+    }
+
+    > span.highlight-author {
+      color: var(--global-theme-color); /* Default theme link color */
+      text-decoration: underline; /* Add underline */
+      font-weight: bold; /* Make it bold */
+      border-bottom: none; /* Remove dashed underline if applied elsewhere */
+    }
+  }
 
       .links {
         a.btn {
