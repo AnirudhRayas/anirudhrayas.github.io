@@ -21,11 +21,13 @@ social: true # includes social icons at the bottom of the page
 
 :wave: **Welcome to my website!**
 
-I'm a PhD student in the School of Electrical, Computer, and Energy Engineering at <a href="http://www.asu.edu/">Arizona State University</a>, where I'm fortunate to be advised by <a href="http://www.public.asu.edu/~gdasarat/">Prof. Gautam Dasarathy</a>. Prior to this, I earned my B.Tech degree in Electronics and Communication Engineering from <a href="http://ec.pes.edu">PES University</a>, Bangalore, where I completed my undergraduate thesis under the guidance of <a href="http://sites.google.com/a/pes.edu/sanjeevg/">Prof. Sanjeev Gurugopinath</a>.
+I'm a PhD student in the School of Electrical, Computer, and Energy Engineering at <a href="http://www.asu.edu/">Arizona State University</a>, where I'm fortunate to be advised by <a href="http://www.public.asu.edu/~gdasarat/">Prof. Gautam Dasarathy</a>. Before this, I earned my B.Tech degree in Electronics and Communication Engineering from <a href="http://ec.pes.edu">PES University</a>, Bangalore, where I completed my undergraduate thesis under the guidance of <a href="http://sites.google.com/a/pes.edu/sanjeevg/">Prof. Sanjeev Gurugopinath</a>.
 
-My research interests span topics in high dimensional statistics, learning theory, and optimization. Specifically, I'm interested in developing novel algorithms for high dimensional structured estimation problems with applications to large scale networked dynamical systems such as Brain,  Power, and Information networks.
+My research goal is to develop novel theory and statistically principled methodologies for learning and understanding fundamental network structures in complex interactive systems. A key focus is characterizing statistical complexity, computational efficiency, estimation accuracy, and their trade-offs under realistic network constraints and data collection processes. My research interests lie at the intersection of high-dimensional statistics, graphical models, network theory, and optimization.
 
- In my spare time, I like to read about the history of mathematics and mathematicians, I also enjoy hiking, swimming, playing chess (albeit poorly) and watching animated movies.
+ In my spare time, I like to read about the history of mathematics and mathematicians, I also enjoy hiking, swimming, playing chess (albeit poorly), and watching animated movies.
+
+ **I am on the postdoctoral job market**. Please find my CV below.
 
  <a href="https://drive.google.com/file/d/1eCfk5vAOpeAk-leTQ9F7qJzxrgyzNiP5/view?usp=sharing" target="_blank">
   <button style="background-color: #4a90e2; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
