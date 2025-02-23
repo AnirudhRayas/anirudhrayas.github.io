@@ -27,9 +27,9 @@ My research goal is to develop novel theory and statistically principled methodo
 
  In my spare time, I like to read about the history of mathematics and mathematicians, I also enjoy hiking, swimming, playing chess (albeit poorly), and watching animated movies.
 
- **I am on the postdoctoral job market**. Please find my CV below.
+ **I am on the postdoctoral job market. Please feel free to reach out if you have an opening!**.
 
- <a href="https://drive.google.com/file/d/1eCfk5vAOpeAk-leTQ9F7qJzxrgyzNiP5/view?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/1_ySAHekTF42VjCYL_MHwY8eh14P43Xcl/view?usp=sharing">
   <button style="background-color: #4a90e2; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
     <strong>My CV</strong>
   </button>
