@@ -35,6 +35,12 @@ My research goal is to develop novel theory and statistically principled methodo
   </button>
 </a>
 
+<a href="https://drive.google.com/file/d/1ftbgFO_x5OMJ41D2ivULnxQJAn_P-z5e/view?usp=sharing">
+  <button style="background-color: #4a90e2; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
+    <strong>Research Statement</strong>
+  </button>
+</a>
+
 
  [//]: <> Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
  [//]: <> Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publication page](/al-folio/publications/) automatically.
