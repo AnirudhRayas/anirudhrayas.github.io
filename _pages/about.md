@@ -29,19 +29,20 @@ My research goal is to develop novel theory and statistically principled methodo
 
  **I am on the postdoctoral job market. Please feel free to reach out if you have an opening!**.
 
- <div style="display: flex; gap: 15px;">
-  <a href="https://drive.google.com/file/d/1_ySAHekTF42VjCYL_MHwY8eh14P43Xcl/view?usp=sharing" target="_blank">
+ <div style="display: flex; gap: 10px;">
+  <a href="{{ site.baseurl }}/assets/pdf/Anirudh_Rayas_CV.pdf" target="_blank">
     <button style="background-color: #4a90e2; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
-      <strong>CV</strong>
+      <strong>My CV</strong>
     </button>
   </a>
 
-  <a href="https://drive.google.com/file/d/1ftbgFO_x5OMJ41D2ivULnxQJAn_P-z5e/view?usp=sharing" target="_blank">
+  <a href="{{ site.baseurl }}/assets/pdf/Research_statement.pdf" target="_blank">
     <button style="background-color: #4a90e2; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
       <strong>Research Statement</strong>
     </button>
   </a>
 </div>
+
 
 
 
