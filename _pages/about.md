@@ -27,7 +27,7 @@ My research goal is to develop novel theory and statistically principled methodo
 
  In my spare time, I like to read about the history of mathematics and mathematicians, I also enjoy hiking, swimming, playing chess (albeit poorly), and watching animated movies.
 
- **I am on the postdoctoral job market. Please feel free to reach out if you have an opening!**.
+ **I am on the postdoctoral job market. Please feel free to reach out if you have an opening!**
 
  <div style="display: flex; gap: 10px;">
   <a href="{{ site.baseurl }}/assets/pdf/Anirudh_Rayas_CV.pdf" target="_blank">
