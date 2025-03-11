@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 :wave: **Welcome to my website!**
 
-I'm a PhD student in the School of Electrical, Computer, and Energy Engineering at <a href="http://www.asu.edu/">Arizona State University</a>, where I'm fortunate to be advised by <a href="http://www.public.asu.edu/~gdasarat/">Prof. Gautam Dasarathy</a>. Before this, I earned my B.Tech degree in Electronics and Communication Engineering from <a href="http://ec.pes.edu">PES University</a>, Bangalore, where I completed my undergraduate thesis under the guidance of <a href="http://sites.google.com/a/pes.edu/sanjeevg/">Prof. Sanjeev Gurugopinath</a>.
+I'm a PhD student in the School of Electrical, Computer, and Energy Engineering at <a href="http://www.asu.edu/">Arizona State University</a>, where I'm fortunate to be advised by <a href="https://search.asu.edu/profile/1176368">Prof. Gautam Dasarathy</a>. Before this, I earned my B.Tech degree in Electronics and Communication Engineering from <a href="http://ec.pes.edu">PES University</a>, Bangalore, where I completed my undergraduate thesis under the guidance of <a href="http://sites.google.com/a/pes.edu/sanjeevg/">Prof. Sanjeev Gurugopinath</a>.
 
 My research goal is to develop novel theory and statistically principled methodologies for learning and understanding fundamental network structures in complex interactive systems. A key focus is characterizing statistical complexity, computational efficiency, estimation accuracy, and their trade-offs under realistic network constraints and data collection processes. My research interests lie at the intersection of high-dimensional statistics, graphical models, network theory, and optimization.
 
