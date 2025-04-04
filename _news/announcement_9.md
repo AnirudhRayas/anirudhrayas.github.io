@@ -4,4 +4,4 @@ date: 2022-11-28
 inline: true
 ---
 
-Received **NeurIPS Scholar Award**, New Orleans 🎉
+Received the **Scholar Award** to attend NeurIPS, New Orleans 🎉
