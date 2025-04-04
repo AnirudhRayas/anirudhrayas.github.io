@@ -25,9 +25,9 @@ I'm a PhD student in the School of Electrical, Computer, and Energy Engineering 
 
 My research goal is to develop novel theory and statistically principled methodologies for learning and understanding fundamental network structures in complex interactive systems. A key focus is characterizing statistical complexity, computational efficiency, estimation accuracy, and their trade-offs under realistic network constraints and data collection processes. My research interests lie at the intersection of high-dimensional statistics, graphical models, network theory, and optimization.
 
- In my spare time, I like to read about the history of mathematics and mathematicians, I also enjoy hiking, swimming, playing chess (albeit poorly), and watching animated movies.
+ In my spare time, I like to read about the history of mathematics and mathematicians. I also enjoy hiking, swimming, playing chess (albeit poorly), and watching animated movies.
 
- **I am on the postdoctoral job market. Please feel free to reach out if you have an opening!**
+ **I am currently on the job market for postdoctoral positions! Please contact me if you would like to discuss potential openings or collaborations.**
 
  <div style="display: flex; gap: 10px;">
   <a href="{{ site.baseurl }}/assets/pdf/Anirudh_Rayas_CV.pdf" target="_blank">
